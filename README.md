@@ -6,7 +6,7 @@
 ###  Welcome to Grocery Raja Store
 
 
-![Screenshot (5)](https://raw.githubusercontent.com/Sambit-12/OOPS_Grocery_Python/main/2_Design/Grocery%20Raja.jpg?token=AUR3A2YH3QLJ7OSKWSMEGM3BGNGQ4)
+![Screenshot (5)](https://raw.githubusercontent.com/Sambit-12/OOPS_Grocery_Python/main/2_Design/Grocery%20Raja.jpg?token=AUR3A277M73MMOYDEJIBDIDBGNMUA)
 
 
 ## Steps to test and run the program: 
