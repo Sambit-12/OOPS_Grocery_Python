@@ -1,6 +1,6 @@
 # Candidate Name:- Sambit Nayak
 # Emp ID:- 99005756
-![Hello](https://www.code-inspector.com/project/27275/score/svg)
+
 ## Python Mini Project : Grocery Store by Grocery Raja
 
 ###  Welcome to Grocery Raja Store
