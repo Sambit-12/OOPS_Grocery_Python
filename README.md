@@ -29,7 +29,6 @@ Folder             | Description
 `3_Implementation` | All code and documentation
 `4_Test_plan`      | Documents with test plans and procedures
 `6_Images`         | Screenshot of Code execution and testing
-`8_Report`         | Report represents the documentation for the whole project
 
 ## Contributors List and Summary
 
