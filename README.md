@@ -17,11 +17,10 @@
 
 ## Badges🥇
 
- | Code Inspector 
-------|----------|-------|--------------|--------------|---------|----------|---------
+ | Code Inspector |
 
-|||||||![Code Inspector](https://www.code-inspector.com/project/27275/score/svg)
-|||||||![Code Inspector](https://www.code-inspector.com/project/27275/status/svg)
+![Code Inspector](https://www.code-inspector.com/project/27275/score/svg)
+![Code Inspector](https://www.code-inspector.com/project/27275/status/svg)
 ## Folder Structure
 Folder             | Description
 -------------------| -----------------------------------------
