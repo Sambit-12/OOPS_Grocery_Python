@@ -11,7 +11,7 @@
 
 ## Steps to test and run the program: 
 1. Refer contents from 3_Implemention folder.
-2. Refer images and videos from 6_Imager.
+2. Refer images and videos from 5_Image.
 
 
 
@@ -32,7 +32,7 @@ Folder             | Description
 `2_Design`         | Documents specifying design details
 `3_Implementation` | All code and documentation
 `4_Test_plan`      | Documents with test plans and procedures
-`6_Images`         | Screenshot of Code execution and testing
+`5_Images`         | Screenshot of Code execution and testing
 
 ## Contributors List and Summary
 
