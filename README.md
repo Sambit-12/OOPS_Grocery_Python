@@ -17,11 +17,11 @@
 
 ## Badges🥇
 
-Build | Code Quality | Unity | Git Inspector | Code Coverage | Valgrind | Code Inspector | Codacy Badge
+ | Code Inspector 
 ------|----------|-------|--------------|--------------|---------|----------|---------
-[![C/C++ CI](https://github.com/tanmaya191/tanmaya191-SDLC_8_Thunderbirds/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/tanmaya191/tanmaya191-SDLC_8_Thunderbirds/actions/workflows/c-cpp.yml) | [![Static Cppcheck](https://github.com/tanmaya191/tanmaya191-SDLC_8_Thunderbirds/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/tanmaya191/tanmaya191-SDLC_8_Thunderbirds/action/workflows/cppcheck.yml)| [![Unity - Unit Testing](https://github.com/tanmaya191/tanmaya191-SDLC_8_Thunderbirds/actions/workflows/unity.yml/badge.svg)](https://github.com/tanmaya191/tanmaya191-SDLC_8_Thunderbirds/actions/workflows/unity.yml)| [![Git Inspector](https://github.com/tanmaya191/tanmaya191-SDLC_8_Thunderbirds/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/tanmaya191/tanmaya191-SDLC_8_Thunderbirds/actions/workflows/gitinspector.yml) | [![CI-Coverage](https://github.com/tanmaya191/tanmaya191-SDLC_8_Thunderbirds/actions/workflows/gcov.yml/badge.svg)](https://github.com/tanmaya191/tanmaya191-SDLC_8_Thunderbirds/actions/workflows/gcov.yml) | [![Valgrind](https://github.com/tanmaya191/tanmaya191-SDLC_8_Thunderbirds/actions/workflows/Valgrind.yml/badge.svg)](https://github.com/tanmaya191/tanmaya191-SDLC_8_Thunderbirds/actions/workflows/Valgrind.yml) | ![Code Inspector](https://www.code-inspector.com/project/26826/status/svg) | [![Codacy Badge](https://app.codacy.com/project/badge/Grade/d195d8bc1f2348d3becd9c63c5ee9711)](https://www.codacy.com/gh/tanmaya191/tanmaya191-SDLC_8_Thunderbirds/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=tanmaya191/tanmaya191-SDLC_8_Thunderbirds&amp;utm_campaign=Badge_Grade)
-|||||||![Code Inspector](https://www.code-inspector.com/project/26826/score/svg)
 
+|||||||![Code Inspector](https://www.code-inspector.com/project/27275/score/svg)
+|||||||![Code Inspector](https://www.code-inspector.com/project/27275/status/svg)
 ## Folder Structure
 Folder             | Description
 -------------------| -----------------------------------------
@@ -39,8 +39,6 @@ PS No. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Case
 99005756 | Sambit Nayak             | Display of Information of food items and test case for calculating expiry date| 0| 0| 6|6
 
 
-## Git Inspector result
 
-![image](https://github.com/tanmaya191/tanmaya191-SDLC_8_Thunderbirds/blob/main/6_Images_and_videos/Capture1.PNG?raw=true)
  
 
