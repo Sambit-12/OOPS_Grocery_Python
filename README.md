@@ -11,7 +11,7 @@
 
 ## Steps to test and run the program: 
 1. Refer contents from 3_Implemention folder.
-2. Refer images and videos from 6_Imager.
+2. Refer images and videos from 5_Image.
 
 
 
