@@ -4,11 +4,10 @@
 
 | **Test ID** | **Description**                                              | **Exp I/P** | **Exp O/P** | **Actual Out** |**Type Of Test**  |    
 |-------------|--------------------------------------------------------------|------------|-------------|----------------|------------------|
-|  H_01       | Circuit Calculator passive element parameters | Success | Success | Success | Application based |
-|  H_02       | Calculator for Calculating the Duty Cycle and the output voltage of the waveform | Success | Success | Success | Application based |
-|  H_03       | Calculator for Displaying the Half Adder and Subtractor (via Truth Table) | Success | Success | Success | Application based |
-|  H_04       | Calculate the Different Machine Parameters | Success | Success | Success | Application based |
-|  H_04       | Calculation to find Multi or Single core Wires | Success | Success | Success | Application based |
+|  H_01       | Test Snacks | Success | Success | Success | Boundary Based |
+|  H_02       | Test Staples| Success | Success | Success | Boundary Based |
+|  H_03       | Test Beverages | Success | Success | Success| Boundary based |
+
 
 
 
@@ -16,9 +15,9 @@
 
 | **Test ID** | **Description**                                              | **Exp I/P** | **Exp O/P** | **Actual Out** |**Type Of Test**  |    
 |-------------|--------------------------------------------------------------|------------|-------------|----------------|------------------|
-|  L_01       | Calculate the Different Machine Parameters | Success | Success | Success | Requirement based |
-|  L_02       | Calculate the Different Machine Parameters | Success | Success | Success | Scenario based    |
-|  L_03       | Calculate the Different Machine Parameters | Success | Success | Success | Boundary based    |
-|  L_04       | Calculation to find Multi or Single core Wires | Success | Success | Success | Requirement based |
-|  L_05       | Calculation to find Multi or Single core Wires | Success | Success | Success | Scenario based    |
-|  L_06       | Calculation to find Multi or Single core Wires | Success | Success | Success | Boundary based    |
+|  L_01       | Test case for print details of Snack| Success | Success | Success | Boundary based |
+|  L_02       | Test case for calculating expiry date of Snack | Success | Success | Success | Boundary based    |
+|  L_03       | Test case for print details of Staples | Success | Success | Success | Boundary based    |
+|  L_04       | Test case for calculating expiry date of Staples | Success | Success | Success | Boundary based |
+|  L_05       | Test case for print details of Beverage | Success | Success | Success | Boundary based    |
+|  L_06       | Test case for calculating expiry date of Beverage | Success | Success | Success | Boundary based    |

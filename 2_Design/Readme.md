@@ -2,17 +2,17 @@
 
 ## Application 1 - To find the Product Detail of the Grocesory Store
 
-### To find the 
+### To find the Price Manufacturing Date Shell life of different Product Like Snacks, Staples and Beverages
 
 
 ### High Level Design 
                        
-![HighLevelStructuralDiagram](https://github.com/tanmaya191/tanmaya191-SDLC_8_Thunderbirds/blob/72514a10e3f4070808e3a5df60d6e3d15e8b6a9d/High%20level.jpg)
+![HighLevelStructuralDiagram](https://raw.githubusercontent.com/Sambit-12/OOPS_Grocery_Python/main/2_Design/High%20Level%20Design.jpg?token=AUR3A26OJPTP35QDIK5KBODBGNDQY)
 
 
 ### Low Level Design 
 
-![FeaturesLevelStructuralDiagram](https://github.com/tanmaya191/tanmaya191-SDLC_8_Thunderbirds/blob/72514a10e3f4070808e3a5df60d6e3d15e8b6a9d/Low%20level.jpg)
+![FeaturesLevelStructuralDiagram](https://raw.githubusercontent.com/Sambit-12/OOPS_Grocery_Python/main/2_Design/Low%20Level%20Design.jpg?token=AUR3A25IIYKSYNNHKADDGX3BGNDTW)
 
 
 
