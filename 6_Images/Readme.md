@@ -1,6 +1,6 @@
 # Design
 
-# Screenshots of output and test cases
+# Screenshots of output, test cases and Pylint Score
 
 
 ## Image 1
