@@ -108,6 +108,6 @@ A grocery store is present in this project, and we will use the concepts of inhe
 | LA09 | Declaring variables and string input for YYY-MM-DD format of manufacturing date using dateutil.relativedelta package and datetime for expiry date format|HA06|Implemented|
 | LA10 | Polymorphism for Advertisement of the shop |HA07 |Implemented|
 | LA11 | Polymorphism for Features of Store of the shop |HA07|Implemented|
-| LA12 | Data Encapsulation being used to hide the Product Id of the Product in barcode form| by using._ form  to  protect attribute object of Product Id class |HA08| Implemented|
+| LA12 | Data Encapsulation being used to hide the Product Id of the Product in barcode form  by using._ form  to  protect attribute object of Product Id class |HA08| Implemented|
 | LA13 | Usage of Regular expression to get only the Email Id of the user nothing else should be displayed if written by mistake using pattern format| HA09| Implemented|
 | LA14 | Usage of Regular expression to get the Customer review from Paragraph to sentence format| HA09| Implemented|
