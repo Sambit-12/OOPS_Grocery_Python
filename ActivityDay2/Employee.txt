@@ -1,0 +1,5 @@
+Name      DOB                  EMAIl
+Tanmay    12/23/21             Tanmay@gmail.com
+rinit     12/7/34               rinit@yahho.com
+rohan     23/5/7               rohan@rediffmail.com
+saket     54/323/5              Saket@ltts.com

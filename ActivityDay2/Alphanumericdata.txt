@@ -1,0 +1,14 @@
+Before you send anyone a file attachment, check to make sure that your filename meets the
+following criteria. If it does not, resave/rename your file according to these criteria. Incorrect
+file names may prevent you from being able to post your file and other users from being able
+to open your attachment.
+Does your file name include:
+any "illegal" characters?
+Your filename should not contain any non-alphanumeric characters (for example, ! @ # $
+% ‘ “ &, meaning that Assignment#7.rtf is wrong; Assignment7.rtf is correct.)
+The only acceptable non-alphanumeric characters are an underscore ( _ ) or a hyphen ( - ).
+any spaces?
+Filenames should not contain any spaces. For example "Progress Report.rtf" is wrong;
+"Progress_Report.rtf" or "ProgressReport.rtf" are correct.
+enough information to make sense to a recipient once the file has been downloaded to
+her/his computer?
