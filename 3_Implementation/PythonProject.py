@@ -1,10 +1,9 @@
 # importing regular expression Syntax
 import re
-# importing the modules
-from datetime import date
-import self as self
+# import self as self
 from dateutil.relativedelta import relativedelta
 # importing the modules
+from datetime import date
 
 
 # base class
