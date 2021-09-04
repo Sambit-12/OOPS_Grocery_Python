@@ -47,7 +47,7 @@ A grocery store is present in this project, and we will use the concepts of inhe
 
 
 ## SWOT ANALYSIS🔍
-![Screenshot (1)](https://raw.githubusercontent.com/Sambit-12/OOPS_Grocery_Python/main/2_Design/SWOT%20Analysis%20Template%2003%20-%20TemplateLab.com-1.jpg?token=AUR3A22KUJ4OYDTZJBGSMGTBGNO6I)
+![Screenshot (1)](https://github.com/Sambit-12/OOPS_Grocery_Python/blob/eb455ebd9998db9d7969fad07801d20b21da7d16/2_Design/SWOT%20Analysis%20Template%2003%20-%20TemplateLab.com-1.jpg)
 
 
 # 4W&#39;s and 1&#39;H ❓

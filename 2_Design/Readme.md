@@ -7,12 +7,12 @@
 
 ### High Level Design 
                        
-![HighLevelStructuralDiagram](https://raw.githubusercontent.com/Sambit-12/OOPS_Grocery_Python/main/2_Design/High%20Level%20Design.jpg?token=AUR3A224QOK7TGBIEBAAOQTBGNOKY)
+![HighLevelStructuralDiagram](https://github.com/Sambit-12/OOPS_Grocery_Python/blob/28fd3759956affa3f6076fd592cad406f9fd9b02/2_Design/High%20Level%20Design.jpg)
 
 
 ### Low Level Design 
 
-![FeaturesLevelStructuralDiagram](https://raw.githubusercontent.com/Sambit-12/OOPS_Grocery_Python/main/2_Design/Low%20Level%20Design.jpg?token=AUR3A23PPM6GP57FPRXXICTBGNOL4)
+![FeaturesLevelStructuralDiagram](https://github.com/Sambit-12/OOPS_Grocery_Python/blob/28fd3759956affa3f6076fd592cad406f9fd9b02/2_Design/Low%20Level%20Design.jpg)
 
 
 
