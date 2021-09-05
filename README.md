@@ -16,8 +16,8 @@
 
 
 ## Badges🥇
-![codeInspectorScore](https://www.code-inspector.com/project/27275/score/svg)
-![codeInspectorStatus](https://www.code-inspector.com/project/27275/status/svg)
+![codeInspectorScore](https://www.code-inspector.com/project/272751/score/svg)
+![codeInspectorStatus](https://www.code-inspector.com/project/272751/status/svg)
 
 
 Hacker Rank Certification
