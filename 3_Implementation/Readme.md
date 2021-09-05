@@ -11,7 +11,7 @@
 - Install Pytest from [Pytest](https://docs.pytest.org/en/6.2.x/getting-started.html)
 
 ## Running the module
-1. Run command: in  PythonProject.py(To build the code)
-2. Run command: in test_PythonProject.py (To test the code)
+1. Run command: run PythonProject.py(To build the code)
+2. Run command: run the test_PythonProject.py (To test the code)
 3. Run command: pylint .\3_Implementation\test_PythonProject.py (To run the code) and get Pylint score for test_pythonProject.py
-4. Run command: pylint .\3_Implementation\test_PythonProject.py (To run the code) and get Pylint score for PythonProject.py
+4. Run command: pylint .\3_Implementation\PythonProject.py (To run the code) and get Pylint score for PythonProject.py

@@ -1,6 +1,6 @@
 # Design
 
-## Application 1 - To find the Product Detail of the Grocesory Store
+## Application  - To find the Product Detail of the Grocesory Store
 
 ### To find the Price Manufacturing Date Shell life of different Product Like Snacks, Staples and Beverages
 
