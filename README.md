@@ -20,9 +20,7 @@
 ![codeInspectorStatus](https://www.code-inspector.com/project/27275/status/svg)
 
 
-Hacker Rank Certification
-https://www.hackerrank.com/certificates/8aa8c19ba555
-![Hacker_Rank_Certificate](https://github.com/Sambit-12/OOPS_Grocery_Python/blob/2b9ba5c3d7f0fa38f88b83614cff12b0dd208a50/2_Design/Hacker%20Rank.jpg)
+
 ## Folder Structure
 Folder             | Description
 -------------------| -----------------------------------------
